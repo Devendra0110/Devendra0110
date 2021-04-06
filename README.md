@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devendra0110&show_icons=true&theme=radical&hide=prs,issues,contribs)
 
-![GitHub followers](https://img.shields.io/github/followers/Devendra0110?color=red) ![](https://komarev.com/ghpvc/?username=Devendra0110&color=blue&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/Devendra0110?color=red) ![](https://komarev.com/ghpvc/?username=Devendra0110&color=brightgreen&label=Profile+Views)
 
 *Supported by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) , [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) and [Shields.io](https://github.com/badges/shields).*
