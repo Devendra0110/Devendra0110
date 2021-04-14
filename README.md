@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/Devendra0110?color=red) ![](https://komarev.com/ghpvc/?username=Devendra0110&color=brightgreen&label=Profile+Views)
 
 *Supported by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) , [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) and [Shields.io](https://github.com/badges/shields).*
+
+### Let's Connect 🔗
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/dev-gaud/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/Devendra_Gaud) 
+[![](https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=000000)](https://www.github.com/Devendra0110/)
