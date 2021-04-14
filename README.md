@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/dev-gaud/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/Devendra_Gaud) 
-[![](https://img.shields.io/badge/gitlab-%230077B5.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=000000)](https://gitlab.com/dev_Devendra)
+[![](https://img.shields.io/badge/gitlab-%230077B5.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=292961)](https://gitlab.com/dev_Devendra)
