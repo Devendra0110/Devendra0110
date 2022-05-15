@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev</h1>
-<h3 align="center">A passionate frontend developer from India. Mostly love backend development. Intrested in secure and scalable server development.</h3>
+<h3 align="center">A passionate fullstack developer from India. Mostly love backend development. Intrested in secure and scalable server development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devendra0110&label=Profile%20views&color=0e75b6&style=flat" alt="devendra0110" /> </p>
 
