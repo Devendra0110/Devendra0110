@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/devendra_gaud" target="blank"><img src="https://img.shields.io/twitter/follow/devendra_gaud?logo=twitter&style=for-the-badge" alt="devendra_gaud" /></a> </p>
 
 
-[//]: # - 🔭 I’m currently working on an online ERP project **Entercraft**
+[comment]: <>  - 🔭 I’m currently working on an online ERP project **Entercraft**
 
 [//]: <>  - 🌱 I’m currently learning **GraphQl**
 
